@@ -1,0 +1,119 @@
+/* NAVBAR CSS */
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(85, 187, 235);
+    border-radius: 5px;
+}
+.nav #list{
+   display: flex;
+   margin-left: 20px;
+   padding-top: 10px; 
+   list-style: none;
+}
+.nav #list .listAnker{
+   padding-left: 25px;
+   text-decoration: none;
+   color: white;
+
+}
+.nav #list .listAnker:hover{
+    color: yellow;
+}
+.nav #list .listAnke:hover{
+    cursor: pointer;
+}
+
+
+/* Home page CSS */
+.homeMainDiv{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* AddData CSS */
+.addDiv{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.addDiv form{
+    height: 400px;
+    width: 300px;
+    font-size: 20px;
+    
+}
+ input{
+    height: 20px;
+    width: 200px;
+} 
+
+
+/* Table CSS */
+.tableDiv{
+    height: 100%;
+    width:auto;
+    display:flex;
+    justify-content:center;
+    margin-left: 10px;
+    
+
+}
+.tableDiv table{
+    width: 80%;
+    text-align: left;
+    
+}
+.tableDiv th{
+    font-size: 30px;
+}
+.link{
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: rgb(127, 155, 226);
+    color: rgb(39, 46, 44);
+    border-radius: 5px;
+}
+.link:hover{
+    background-color: yellow;
+    color: black;
+}
+
+/* View css */
+.viewDiv{
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.viewDiv li{
+    font-size: 20px;
+}
+.viewDiv #link{
+    margin-top: 10px;
+}
+.viewDiv .Backlink{
+    text-decoration: none;
+    margin-top: 10px;
+    font-size: 20px;
+    background-color: rgb(17, 66, 202);
+    color: white;
+    border-radius: 5px;
+}
+.viewDiv .Backlink:hover{
+    background-color: yellow;
+    color: black;
+}

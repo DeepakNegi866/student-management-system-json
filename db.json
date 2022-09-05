@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ramkrishna",
+      "enrollment_no": "101",
+      "Class": "8th",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Dinesh",
+      "enrollment_no": "102",
+      "Class": "9th",
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Rohit Sajwan",
+      "enrollment_no": "103",
+      "Class": "8th",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Suhani",
+      "enrollment_no": "104",
+      "Class": "11th",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "Deepak Negi",
+      "enrollment_no": "105",
+      "Class": "7th",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "Abhishek Rawat",
+      "enrollment_no": "106",
+      "Class": "11th",
+      "gender": "male"
+    },
+    {
+      "id": 7,
+      "name": "Twinkle Rawat",
+      "enrollment_no": "107",
+      "Class": "10th",
+      "gender": "female"
+    },
+    {
+      "id": 8,
+      "name": "Suraj Rana",
+      "enrollment_no": "108",
+      "Class": "12th",
+      "gender": "male"
+    },
+    {
+      "id": 9,
+      "name": "Pyare Lal",
+      "enrollment_no": "109",
+      "Class": "10th",
+      "gender": "male"
+    },
+    {
+      "name": "Niharika",
+      "enrollment_no": "110",
+      "Class": "7th",
+      "gender": "female",
+      "photo": "",
+      "id": 10
+    }
+  ]
+}
