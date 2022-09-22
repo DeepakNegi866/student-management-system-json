@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/student-management-system-json/static/css/main.184f6385.css",
+    "main.js": "/student-management-system-json/static/js/main.c5496481.js",
+    "index.html": "/student-management-system-json/index.html",
+    "main.184f6385.css.map": "/student-management-system-json/static/css/main.184f6385.css.map",
+    "main.c5496481.js.map": "/student-management-system-json/static/js/main.c5496481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184f6385.css",
+    "static/js/main.c5496481.js"
+  ]
+}
